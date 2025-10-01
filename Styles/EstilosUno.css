@@ -1,0 +1,78 @@
+#TituloPrincipal{
+    border-radius: 5px;
+    color: white;
+    background: #F67280;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+#Navegador{
+    border-radius: 5px;
+    text-align: center;
+}
+.botonNav{
+    border-radius: 5px;
+    border-color: #355C7D;
+    background-color:#F67280;
+}
+    body
+{
+background: #355C7D;
+}
+.ParrafoPrincipal{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+
+}
+.ParrafoDos{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.CaracteristicasTitulo
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #F67280;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+    .caracteristicaSubtitulo{
+        color: white;
+        font-size: medium;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-size:contain;
+        background-color: #C06C84;
+        border-radius: 5px;
+        text-align: center;
+    }
+table{
+    border-radius: 5px;
+    background-color: #F67280;
+    text-align: center;
+    border-style: dotted;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+img
+{
+    margin-top: 6px;
+    size: 180px;
+    height: 180px;
+    width: 180px;
+    text-align: center;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+a:hover
+{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+}
+
+
